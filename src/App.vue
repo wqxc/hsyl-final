@@ -54,7 +54,7 @@
       <div class="foot-bot1">
         <a
           target="_blank"
-          href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=17055683"
+          href="http://wap.scjgj.sh.gov.cn/businessCheck/verifKey.do?showType=extShow&serial=9031000020161025085520000001323594-SAIC_SHOW_310000-20200617112734316859&signData=MEUCIQC6GwXru/gRzQLZr9rKAmXyCC2puEZg2L9vzSrUFCl9/gIgJtLB8WPTQ8PGJ0hKwhjRFtLeLuJK5/Hu0lvBh2/qYbk="
           ><img src="../static/dzyyzz.jpg"
         /></a>
       </div>
